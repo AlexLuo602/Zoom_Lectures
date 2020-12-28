@@ -7,7 +7,7 @@ Uses Python 3.0 and up.
 
 # Instructions
 Clone the project to any Python compiler.
-\n
+
 Copy the xpaths of the different buttons required to navigate to the specific Zoom link.
-\n
+
 Press run
